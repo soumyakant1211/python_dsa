@@ -1,2 +1,2 @@
-# python_dsa_krish_naik
+# python_dsa
 Complete Python with DSA
