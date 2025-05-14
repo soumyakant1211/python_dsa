@@ -1,2 +1,2 @@
-# python_dsa_krish_naik
-Complete Python with DSA Bootcamp
+# python_dsa
+Complete Python with DSA
